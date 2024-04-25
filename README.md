@@ -2,7 +2,7 @@
 - 👀 I’m interested in chess
 - 🌱 I’m currently learning in python
 - 💞️ I’m looking to collaborate on lichess.org
-- 📫 How to reach me: [Play with me](https://lichess.org/@/Nikitosik-ai)
+- 📫 How to reach me: [Play with me in chess on lichess.org] (https://lichess.org/@/Nikitosik-ai)
 - ⚡ Fun fact: I am often called easy tutorial chess bot
 
 <!---
